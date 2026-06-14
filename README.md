@@ -60,7 +60,3 @@ Author
 Dafidz Afriday Islamika
 D3 Teknik Komputer
 Universitas Duta Bangsa Surakarta
-
-Nama : Dafidz Afriday Islamika
-Prodi: D3 Teknik Komputer
-Universitas Duta Bangsa Surakarta
