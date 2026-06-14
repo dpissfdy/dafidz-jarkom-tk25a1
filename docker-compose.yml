@@ -1,0 +1,5 @@
+services:
+  clickjacking-checker:
+    build: .
+    ports:
+      - "15000:15000"
